@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration-klaviyo",
+  "name": "@astronomerio/analytics.js-integration-klaviyo",
   "description": "The Klaviyo analytics.js integration.",
   "version": "2.1.1",
   "keywords": [
